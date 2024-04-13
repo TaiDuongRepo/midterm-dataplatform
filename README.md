@@ -50,3 +50,5 @@ print(response.json())
 ```
 
 # Step 6: Get 10 points
+
+![10 points](./10point.heic)
