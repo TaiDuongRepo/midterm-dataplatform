@@ -30,8 +30,7 @@ docker compose up
 
 # Step 4: Access the Airflow UI
 
-Open your browser and access the Airflow UI at `http://localhost:8080/`
-And turn on the `midterm_data_platform` DAG
+Open your browser and access the Airflow UI at `http://localhost:8080/` login with username: `airflow` password: `airflow` and turn on the `studentID` DAG
 
 Open qdrant dashboard at `http://localhost:6333/dashboard/` and check your collection `studentID`
 
